@@ -9,16 +9,18 @@ Tableau — for dashboard creation and data visualisation
 
 ## Dashboard Overview
 Chart 1 — Down Time per Factory
-Analysed which Daikibo factories had the highest machine downtime (unhealthy status). daikibo-factory-s had the highest downtime (~480 units).
+Analysed which Daikibo factories had the highest machine downtime (unhealthy status). 
+daikibo-factory-s had the highest downtime (~480 units).
 
 Chart 2 — Down Time per Device Type
-Identified which machines were most problematic. LaserWelder and LaserCutter had the highest downtime across all factories.
+Identified which machines were most problematic. 
+LaserWelder and LaserCutter had the highest downtime across all factories.
 
 ## Key Insights
 
--daikibo-factory-s and daikibo-shenzhen are the most affected factories
--LaserWelder is the most frequently unhealthy device type
--AirWrench and MetalPress had almost zero downtime — most reliable machines
+1)daikibo-factory-s and daikibo-shenzhen are the most affected factories
+2)LaserWelder is the most frequently unhealthy device type
+3)AirWrench and MetalPress had almost zero downtime — most reliable machines
 
 
 # Certificate
